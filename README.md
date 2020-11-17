@@ -1,0 +1,4 @@
+App that include use of typescript and html, css, svg
+
+### Deployment:
+https://github.com/yishay-segal/yishaySlides/settings
